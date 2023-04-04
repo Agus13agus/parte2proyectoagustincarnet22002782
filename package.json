@@ -1,0 +1,15 @@
+{
+  "name": "parte2proyecto-agustin-carnet-22002782",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^23.2.1"
+  }
+}
